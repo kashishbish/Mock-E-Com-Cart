@@ -49,6 +49,11 @@ npm start
 Frontend will run at: http://localhost:3000
 
 Screenshots
+<img width="1843" height="818" alt="Screenshot (571)" src="https://github.com/user-attachments/assets/6a24da16-7590-41fb-9065-4eb3f1c84638" />
+<img width="1824" height="782" alt="Screenshot (572)" src="https://github.com/user-attachments/assets/06aa2a27-99e9-4724-bb0f-564d0f188fef" />
+<img width="1851" height="864" alt="Screenshot (573)" src="https://github.com/user-attachments/assets/aab4ba7d-9711-42d4-bbed-cba4b34f2520" />
 <img width="1857" height="891" alt="Screenshot (574)" src="https://github.com/user-attachments/assets/d54df829-55f0-4cef-a95d-f49fa23e814a" />
+
+
 
 
