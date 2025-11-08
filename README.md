@@ -9,8 +9,6 @@ It demonstrates basic e-commerce flows: product listing, add/remove from cart, t
 - **Backend:** Node.js, Express.js, CORS  
 - **Database:** Mock in-memory (JSON)  
 
----
-
 ## Features
 - Display list of products  
 - Add products to cart  
@@ -19,7 +17,7 @@ It demonstrates basic e-commerce flows: product listing, add/remove from cart, t
 - Checkout form (mock receipt with total & timestamp)  
 - Responsive design  
 
----
+
 
 ## Folder Structure
 
@@ -37,13 +35,10 @@ mock-ecom-cart/
 # Setup Instructions
 
 ** 1️ Backend**
-```bash
 cd backend
 npm install
 npm run dev
 Backend will run at: http://localhost:5000
-
-Test API: http://localhost:5000/api/products
 
 **2️ Frontend**
 bash
