@@ -1,3 +1,4 @@
+// index.js
 import express from "express";
 import cors from "cors";
 
@@ -65,4 +66,4 @@ app.post("/api/checkout", (req, res) => {
   res.json({ message: "Checkout successful!", total, timestamp });
 });
 
-app.listen(5000, () => console.log("✅ Backend running at http://localhost:5000"));
+app.listen(5000, () => console.log("Backend running at http://localhost:5000"));
